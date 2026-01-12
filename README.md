@@ -47,21 +47,11 @@
 
 
 
-## 진행한 EDA 예시 (서술용)
-
-* 가격의 분포가 극단적으로 치우쳐 있어 로그 변환 필요
-* 브랜드 정보가 가격 예측에 큰 영향을 미침
-* 텍스트 설명의 길이가 가격과 일정 수준의 양의 상관관계 존재
-* 카테고리 정보가 매우 다단계 구조 → Grouping 필요
+## EDA
 
 
 
 ## 모델링
-
-* 기본 모델: Linear Regression, RandomForestRegressor, LightGBM
-* 성능 평가 지표: RMSE
-* 텍스트 설명을 TF-IDF 기반으로 벡터화 후 Tabular feature와 결합
-* Hyperparameter tuning (GridSearch / Optuna 등 시도 가능)
 
 
 
