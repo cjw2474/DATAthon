@@ -49,7 +49,12 @@
 
 ## EDA
 
+## 데이터 전처리
 
+## Feature Engineering
+<img width="1912" height="948" alt="screenshot-1768208962396" src="https://github.com/user-attachments/assets/5b16e52c-d999-4ba8-85da-5460a72dd731" />
+
+<img width="1912" height="948" alt="screenshot-1768208962396" src="https://github.com/user-attachments/assets/a8451a39-936c-4219-b801-612d0a3b50be" />
 
 ## 모델링
 
