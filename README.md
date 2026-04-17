@@ -48,16 +48,30 @@
 
 
 ## EDA
+<img width="1401" height="787" alt="image" src="https://github.com/user-attachments/assets/2edc610c-dbca-49e2-b70d-c7c5ea640514" />
+
+<img width="1400" height="786" alt="image" src="https://github.com/user-attachments/assets/a36190c3-87b3-4ca1-af12-223ba75241a5" />
+
+<img width="1406" height="789" alt="image" src="https://github.com/user-attachments/assets/da9632d5-3148-4b95-96aa-cdbb0b6a5f91" />
+
+<img width="1408" height="793" alt="image" src="https://github.com/user-attachments/assets/51249924-4ead-4612-a218-3b96ef9d6893" />
 
 ## 데이터 전처리
 
 ## Feature Engineering
 <img width="1912" height="948" alt="screenshot-1768208962396" src="https://github.com/user-attachments/assets/5b16e52c-d999-4ba8-85da-5460a72dd731" />
 
-<img width="1912" height="948" alt="screenshot-1768208962396" src="https://github.com/user-attachments/assets/a8451a39-936c-4219-b801-612d0a3b50be" />
+<img width="1402" height="789" alt="image" src="https://github.com/user-attachments/assets/ad0531d0-8a25-4efe-a260-02a3f2424fd9" />
+
 
 ## 모델링
+<img width="1408" height="791" alt="image" src="https://github.com/user-attachments/assets/cb968587-c3c7-496e-9797-ca2698f5c0b5" />
 
+<img width="1409" height="792" alt="image" src="https://github.com/user-attachments/assets/022cc022-5ba4-46ab-9078-e00ba7d85d3c" />
+
+<img width="1409" height="792" alt="image" src="https://github.com/user-attachments/assets/9ec5f5c0-9ffc-417f-951d-97d34856d0f1" />
+
+<img width="1408" height="791" alt="image" src="https://github.com/user-attachments/assets/bdade46a-fa3b-4ab4-855d-f319881e4d04" />
 
 
 ## 결론
